@@ -1,0 +1,10 @@
+{
+    "name": "WeightedCategoryPatch",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "A lightweight patch for **BrutalCompanyMinusExtraReborn** that improves event selection when `Use custom weights?` is enabled.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305",
+        "SoftDiamond-BrutalCompanyMinusExtraReborn-1.50.6"
+    ]
+}
